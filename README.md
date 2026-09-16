@@ -1,4 +1,8 @@
-# Marcos Soares
+# 👋 Olá, eu sou Marcos Soares!
+
+## 💻 Estudante de Informatica | 🎬 Edição & Audiovisual | 🏃‍♂️ Corredor
+
+### 🚀 Gosto de transformar ideias em projetos e aprender novas tecnologias.
 
 
 ### APRENDENDO...
@@ -10,5 +14,27 @@
 ### EXPERIÊNCIAS...
 <img width="70" height="70" alt="HTML5_logo_and_wordmark svg" src="https://github.com/user-attachments/assets/189723a6-e16a-42ba-84f8-448bc3e5c9a0" />
 
+#### 💻 Tecnologias
+HTML & CSS
+JavaScript
+Lógica de Programação
+Desenvolvimento de projetos web
+
+#### 🎬 Criatividade & Mídia
+Edição de vídeos e imagens
+Criação de identidades visuais
+Produção de conteúdo
+Canva
+OBS Studio e transmissões
+
+#### 🏃‍♂️ Além do código
+Corrida e atletismo
+Projetos esportivos
+Criação de materiais para eventos
+Projetos escolares e comunitários
+
+##### 📍 General Sampaio — Ceará, Brasil
+
+##### 🚀 Aprendendo, criando e evoluindo um projeto de cada vez.
 
 
