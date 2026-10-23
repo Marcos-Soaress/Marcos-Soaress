@@ -6,8 +6,10 @@
 APRENDENDO...
 
 <img width="80" height="80" alt="download" src="https://github.com/user-attachments/assets/9e10a915-cd11-4a06-b938-50dc1633b71c" />
-<img width="80" height="80" alt="Official_CSS_Logo svg" src="https://github.com/user-attachments/assets/6279a49e-f1d2-486d-ae0b-93c9f57e8ce9" />
+<img width="80" height="80" alt="images" src="https://github.com/user-attachments/assets/2be905e5-93b4-4631-a03f-65082b9b2d0f" />
+
 
 EXPERIÊNCIAS...
 
-<img width="80" height="80" alt="3291670" src="https://github.com/user-attachments/assets/f2fefb8d-7426-4d09-88bc-1f5a1c96e87e" />
+<img width="80" height="80" alt="HTML5_logo_and_wordmark svg" src="https://github.com/user-attachments/assets/57d35a12-5bdc-4b33-94da-e3974df3d9cd" />
+
